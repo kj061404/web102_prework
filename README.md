@@ -1,4 +1,4 @@
-# WEB102 Prework - *SeaMonstere*
+# WEB102 Prework - *SeaMonster*
 
 Submitted by: **Kobe Jordan**
 
