@@ -24,7 +24,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of the implemented features:
-<img src='Kapture 2025-01-26 at 23.20.00.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='README.gif' title='Video Walkthrough' width='400' alt='GIF walkthrough of implemented features in the app' />
+
 
 
 *GIF created with Kap*  
