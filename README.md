@@ -1,8 +1,8 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *SeaMonstere*
 
 Submitted by: **Kobe Jordan**
 
-**Name of App** is a website for Sea Monster Crowdfunding that displays information about the games they have funded.
+**SeaMonster** is a website for Sea Monster Crowdfunding that displays information about the games they have funded.
 
 **Time spent:** **8 hours** in total
 
@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of the implemented features:
+<br>
 <img src='README.gif' title='Video Walkthrough' width='400' alt='GIF walkthrough of implemented features in the app' />
 
 
